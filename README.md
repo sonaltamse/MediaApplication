@@ -1,4 +1,4 @@
-# Spring Boot Social Demo App
+# Media App
 
 A demo Spring Boot application that implements a simple social networking model with essential JPA relationships and REST APIs.
 
